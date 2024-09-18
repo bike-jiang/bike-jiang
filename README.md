@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding and skiing
 - 🌱 I’m currently studying Computer Science at University of Saskatchewan 
 - 💞️ I’m looking to collaborate on any open source projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: bikejiang@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
